@@ -12,6 +12,9 @@
   "files": [
     "lib"
   ],
+  "engines": {
+    "node": ">= 10"
+  },
   "scripts": {
     "lint": "eslint src",
     "test": "NODE_ENV=test jest --config=jest.config.js",
