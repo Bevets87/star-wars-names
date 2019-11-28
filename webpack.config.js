@@ -11,7 +11,7 @@ module.exports = {
     filename: 'index.js',
     libraryTarget: 'umd',
     libraryExport: 'default',
-    library: 'StarWarsNames',
+    library: 'StarWarsNamesSteve',
   },
   module: {
     rules: [

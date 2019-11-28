@@ -1,6 +1,6 @@
 import names from './index.js'
 
-describe('star-wars-names', () => {
+describe('star-wars-names-steve', () => {
   it('can get all star wars names', () => {
     const all = names.all;
     expect(all.length).toEqual(93)

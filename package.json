@@ -1,8 +1,8 @@
 {
-  "name": "star-wars-names",
+  "name": "star-wars-names-steve",
   "version": "1.0.0",
   "main": "lib/index.umd.js",
-  "repository": "https://github.com/Bevets87/star-wars-names.git",
+  "repository": "https://github.com/Bevets87/star-wars-names-steve.git",
   "author": "Steven Barton <Bevets87@gmail.com>",
   "license": "MIT",
   "keywords": [

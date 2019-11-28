@@ -1,5 +1,5 @@
 import unique from 'unique-random-array'
-import json from './star-wars-names.json'
+import json from './star-wars-names-steve.json'
 
 const all = json
 
