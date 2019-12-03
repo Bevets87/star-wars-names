@@ -39,8 +39,8 @@
   "dependencies": {
     "unique-random-array": "^2.0.0"
   },
-  "config": {
-    "ghooks": {
+  "husky": {
+    "hooks": {
       "pre-commit": "yarn validate"
     }
   }
